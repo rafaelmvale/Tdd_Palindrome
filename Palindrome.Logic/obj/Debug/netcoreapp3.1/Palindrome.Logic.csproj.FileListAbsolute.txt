@@ -1,0 +1,10 @@
+C:\Users\fael_\Documents\projetos_mba\AutomatedSoftwareTesting\Palindrome\Palindrome.Logic\bin\Debug\netcoreapp3.1\Palindrome.Logic.deps.json
+C:\Users\fael_\Documents\projetos_mba\AutomatedSoftwareTesting\Palindrome\Palindrome.Logic\bin\Debug\netcoreapp3.1\Palindrome.Logic.dll
+C:\Users\fael_\Documents\projetos_mba\AutomatedSoftwareTesting\Palindrome\Palindrome.Logic\bin\Debug\netcoreapp3.1\Palindrome.Logic.pdb
+C:\Users\fael_\Documents\projetos_mba\AutomatedSoftwareTesting\Palindrome\Palindrome.Logic\obj\Debug\netcoreapp3.1\Palindrome.Logic.csproj.AssemblyReference.cache
+C:\Users\fael_\Documents\projetos_mba\AutomatedSoftwareTesting\Palindrome\Palindrome.Logic\obj\Debug\netcoreapp3.1\Palindrome.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fael_\Documents\projetos_mba\AutomatedSoftwareTesting\Palindrome\Palindrome.Logic\obj\Debug\netcoreapp3.1\Palindrome.Logic.AssemblyInfoInputs.cache
+C:\Users\fael_\Documents\projetos_mba\AutomatedSoftwareTesting\Palindrome\Palindrome.Logic\obj\Debug\netcoreapp3.1\Palindrome.Logic.AssemblyInfo.cs
+C:\Users\fael_\Documents\projetos_mba\AutomatedSoftwareTesting\Palindrome\Palindrome.Logic\obj\Debug\netcoreapp3.1\Palindrome.Logic.csproj.CoreCompileInputs.cache
+C:\Users\fael_\Documents\projetos_mba\AutomatedSoftwareTesting\Palindrome\Palindrome.Logic\obj\Debug\netcoreapp3.1\Palindrome.Logic.dll
+C:\Users\fael_\Documents\projetos_mba\AutomatedSoftwareTesting\Palindrome\Palindrome.Logic\obj\Debug\netcoreapp3.1\Palindrome.Logic.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Palindrome.Logic/1.0.0": {
+        "runtime": {
+          "Palindrome.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Palindrome.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
